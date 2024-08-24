@@ -37,7 +37,7 @@
 <a href="https://www.instagram.com/collo_me/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+COLLO+ME" alt="Typing SVG" /></a>
   
 # YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@gaming_menance)
+   [`More hacks & tutorials`](https://youtube.com/@gaming_menance?si=ie8v2Pe1YKcB7Zkf)
 
 # contact to owner 👇    
 <a aria-label="Join our chats" href="https://wa.me/254748895682?text=Hi!! `Collome` Sir, I need Your Help" target="_blank">
